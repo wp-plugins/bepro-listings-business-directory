@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: business, directory, business directory, staff, listings, employee, building, staff, bepro listings
+Tags: artist, album, bands, bepro listings, book, building, business, business directory, college, church, discography, directory, easy, employee, geo, library, listings, location, member, name, office, plugin, school, simple, store, staff, university, user
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.0
