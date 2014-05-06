@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin includes the tools needed to create a business or staff related directory. Use various listing templates to feature, images, contact details, and other content.
+Tools needed to create a business or staff related directory. Various listing templates feature info like, images, contact details, & other content.
 
 == Description ==
 Requires BePro Listings to showcase business and staff related information on your directory. Download and install BePro Listings here on wordpress.org
@@ -51,6 +51,12 @@ Remember, you can also still use all of the other shortcodes included with BePro
 
 == Screenshots ==
 
+1. shortcode bl1 example
+2. shortcode bl1b example
+3. shortcode bl2 example
+4. shortcode bl2b example
+5. shortcode bl3 example
+6. shortcode bl4 example
 
 
 == Changelog ==
