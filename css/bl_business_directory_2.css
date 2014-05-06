@@ -1,0 +1,46 @@
+.bl_business_listings_list_2,.bl_business_listings_list_2b{
+	width:100%;
+}
+.bl_business_listings_list_2 .bl_directory_1,.bl_business_listings_list_2b .bl_directory_1{
+	clear:left;
+}
+.bl_directory_1 .result_contact{
+	float:left;
+	width:20%;
+	display:block;
+}
+.bl_business_listings_list_2 .result_contact{
+	float:left;
+	width:20%;
+	display:block;
+}
+.bl_directory_1 .return_begin{
+	display:block;
+	clear:both
+}
+.bl_business_listings_list_2 tr:nth-child(odd),.bl_business_listings_list_2b tr:nth-child(odd){
+	background-color:#dfdfdf;
+}
+.result_name,.result_title,.result_email,.result_button,.result_type{
+	float:left;
+}
+.result_name{
+	width: 15%;
+}
+.result_title{
+	float:left;
+	margin-left:5px;
+	width:25%;
+}
+.result_email{
+	width:25%;
+	margin-left:5px;
+	word-wrap: break-word;
+}
+.result_type{
+	margin-left:5px;
+	width: 15%;
+}
+.result_button{
+	margin-left:5px;
+}

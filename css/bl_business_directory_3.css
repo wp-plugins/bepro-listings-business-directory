@@ -1,0 +1,44 @@
+/* Shortened listing results */
+.shortcode_results_1{	width: 250px;float: left;margin-left: 7px;background-color: #fff;padding: 5px 10px;margin-top: 10px;clear: left;}
+.shortcode_results_1 .result_type{	clear:both;	display:block;	font-size:10px;overflow:hidden;}.shortcode_results_1 .result_name{	clear:both;	display:block;	font-size:14px;	font-weight:bold;}
+.shortcode_results_1 table{
+	margin:0;
+}
+.shortcode_results_1 .result_img img{
+	width:100%;
+	margin:auto;
+	display: block;
+	height: 150px;
+}
+.shortcode_results_1 .result_button:nth-child(even){
+	margin-left: 2px;
+}
+.shortcode_results_1 .result_email{
+	display: block;
+}
+
+.shortcode_results_1  .result_title{
+	display: block;
+    margin: 5px 0;
+}
+
+.shortcode_results_1 .result_desc{
+	margin:0 0 5px 0;
+	display:block;
+	height: 105px;
+	overflow: hidden;
+}
+.shortcode_results_1 .result_featured {
+	background: transparent url(../images/bepro_listings_featured.png) no-repeat 0 0;
+	height: 75px;
+	width: 75px;
+	float: left;
+	left: 0;
+	margin: -52px 0 0 -8%;
+	opacity: .99;
+	background-size: 105px;
+}
+#shortcode_list .return_begin{
+	float:left;
+	clear:left;
+}
