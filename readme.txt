@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: artist, album, bands, bepro listings, book, building, business, business directory, college, church, discography, directory, easy, employee, geo, library, listings, location, member, name, office, plugin, school, simple, store, staff, university, user
+Tags: address, artist, album, bands, bepro listings, book, building, business, business directory, college, church, discography, directory, directory plugin, easy, employee, geo, library, listings, location, member, name, office, profile, plugin, school, shortcode, simple, store, staff, theme, university, yellow pages, yelp, user
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.0
@@ -15,7 +15,7 @@ By far the **Best Business and Staff Directory** solution available for wordpres
 
 Requires BePro Listings which is **100% FREE**. Download and install BePro Listings here on wordpress.org
 
-- wordpress.org/plugins/bepro-listings/
+- http://wordpress.org/plugins/bepro-listings/
 
 [BePro Listings Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
 
