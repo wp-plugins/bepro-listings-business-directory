@@ -13,17 +13,18 @@ Tools needed to create a business or staff related directory. Various listing te
 == Description ==
 Google Maps, Ajax Search, and more. By far the **Best Business and Staff Directory** solution available for wordpress. BePro Listings provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused layouts. Further proof that BePro Listings can be used for any type of listings website.
 
+
+[BePro Listings Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
+
 Requires BePro Listings which is **100% FREE**. Download and install BePro Listings here on wordpress.org
 
 - http://wordpress.org/plugins/bepro-listings/
-
-[BePro Listings Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
 
 = BePro Listings =  
 
 BePro Listings is a great foundation with features like, **google maps**, **ajax search filter**, Categories, **front end uploads** and so much more. Read more about whats possible on our wordpress.org page or via the documentations link bove.
 
-This base plugin "BePro Listings" can seem simple to the novice, with its single shortcode [bl_all_in_one]. However, this **Business Directory** addon demonstrates our customization capabilities under the surface.
+The base plugin "BePro Listings" can seem simple to the novice, with its single shortcode [bl_all_in_one]. However, this **Business Directory** addon demonstrates our customization capabilities under the surface.
 
 = How to Use =
 
