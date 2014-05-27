@@ -20,6 +20,10 @@ Requires BePro Listings which is **100% FREE**. Download and install BePro Listi
 
 - http://wordpress.org/plugins/bepro-listings/
 
+= INTRO VIDEO =
+
+[youtube http://www.youtube.com/watch?v=D5YpZX0go88&hd=1]
+
 = BePro Listings =  
 
 BePro Listings is a great foundation with features like, **google maps**, **ajax search filter**, Categories, **front end uploads** and so much more. Read more about whats possible on our wordpress.org page or via the documentations link bove.
