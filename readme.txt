@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: address, artist, album, bands, bepro listings, book, building, business, business directory, college, church, discography, directory, directory plugin, easy, employee, geo, library, listings, location, member, office, profile, plugin, school, shortcode, simple, store, staff, theme, university, yellow pages, yelp, user
+Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, profile, plugin, school, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, user, wordpress business directory
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.0
@@ -28,7 +28,7 @@ Requires BePro Listings which is **100% FREE**. Download and install BePro Listi
 
 BePro Listings is a great foundation with features like, **google maps**, **ajax search filter**, Categories, **front end uploads** and so much more. Read more about whats possible on our wordpress.org page or via the documentations link bove.
 
-The base plugin "BePro Listings" can seem simple to the novice, with its single shortcode [bl_all_in_one]. However, this **Business Directory** addon demonstrates our customization capabilities under the surface.
+The base plugin "BePro Listings" can seem simple to the novice, with its single shortcode [bl_all_in_one]. However, this **Business Directory** addon demonstrates our customization capabilities under the surface. When combined, they create the ultimate Business Directory with all of the directory features you could ever need
 
 = How to Use =
 
