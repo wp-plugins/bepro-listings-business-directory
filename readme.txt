@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, profile, plugin, school, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, user, wordpress business directory
+Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, user, wordpress business directory
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tools needed to create a business or staff related directory. Various listing templates feature info like, images, contact details, & more.
 
 == Description ==
-Google Maps, Ajax Search, and more. By far the **Best Business and Staff Directory** solution available for wordpress. BePro Listings provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused layouts. Further proof that BePro Listings can be used for any type of listings website.
+Google Maps, Ajax Search, media support and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. BePro Listings provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website.
 
 
 [BePro Listings Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
@@ -46,6 +46,10 @@ You can use the following shortcode to setup an alaphabetic search option. So if
 [alpha_list]
 
 Remember, you can also still use all of the other shortcodes included with BePro Listings. Ultimately, this plugin provides the layout you need and BePro Listings provides all of the other functionality.
+
+= Directory Solutions =
+
+This addon demonstrates our ability to facilitate any listing design and search feature for your directory. No other directory plugin offers this type of flexibility. No matter what type of information you are listing in your Directory, BePro Listings can supply a directory addon which specifically lists exactly the content you need to showcase and facilitate searching of that directory content.
 
 == Installation ==
 
