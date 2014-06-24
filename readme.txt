@@ -14,7 +14,7 @@ Tools needed to create a business or staff related directory. Various listing te
 Google Maps, Ajax Search, media support and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. BePro Listings provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website.
 
 
-[BePro Listings Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
+[Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
 
 Requires BePro Listings which is **100% FREE**. Download and install BePro Listings here on wordpress.org
 
@@ -50,6 +50,17 @@ Remember, you can also still use all of the other shortcodes included with BePro
 = Directory Solutions =
 
 This addon demonstrates our ability to facilitate any listing design and search feature for your directory. No other directory plugin offers this type of flexibility. No matter what type of information you are listing in your Directory, BePro Listings can supply a directory addon which specifically lists exactly the content you need to showcase and facilitate searching of that directory content.
+
+= THEMES =
+
+BePro Listings has spawned the famous **$1 one dollar wordpress themes**. Checkout a few of our popular options below
+
+	1. ByCater - This responsive directory theme features a home page template utilizing (google map, search, categories, and listings). It also integrates with typical wordpress features like, sidebar, menu, etc
+	2. FolioProjects - Responsive Child theme for the stock wordpress twentyfourteen teamplate. Perfect for gallery, portfolio, and other sites where you want to emphasize the featured images. Comes with three templates
+	3. MT Classifieds - Great responsive theme for classified focused websites. Template uses various features including (google map, categories, and listings)
+	4. WhatLocalsCallIt - Great responsive directory theme built on the twentytwelve foundation. Great option for a Product catalogue
+	5. MP Directory - Try this theme for your next, real estate, vehicle, or other directory
+
 
 == Installation ==
 
