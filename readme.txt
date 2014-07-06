@@ -16,7 +16,7 @@ Google Maps, Ajax Search, media support and anything else your Directory needs. 
 
 [Business Directory](www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
 
-Requires BePro Listings which is **100% FREE**. Download and install BePro Listings here on wordpress.org
+Download and install BePro Listings here on wordpress.org
 
 - http://wordpress.org/plugins/bepro-listings/
 
