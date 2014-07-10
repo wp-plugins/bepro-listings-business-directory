@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, user, wordpress business directory
+Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, paid, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, wordpress business directory
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.0
@@ -24,15 +24,11 @@ Download and install BePro Listings here on wordpress.org
 
 [youtube http://www.youtube.com/watch?v=D5YpZX0go88&hd=1]
 
-= BePro Listings =  
-
-BePro Listings is a great foundation with features like, **google maps**, **ajax search filter**, Categories, **front end uploads** and so much more. Read more about whats possible on our wordpress.org page or via the documentations link bove.
-
-The base plugin "BePro Listings" can seem simple to the novice, with its single shortcode [bl_all_in_one]. However, this **Business Directory** addon demonstrates our customization capabilities under the surface. When combined, they create the ultimate Business Directory with all of the directory features you could ever need
-
 = How to Use =
 
-This specific addon "Business Directory" provides several listing templates that are popular for those trying to setup a directory website. First, you should install BePro Listings and add a few listings to it, business or staff, or whatever you are listing. Once BePro Listings is setup, you can use any of the following shortcodes to reveal a particular layout. LISTING SHORTCODE EXAMPLES
+Install BePro Listings then install this. Its that simple
+
+This specific addon "Business Directory" will introduce several new listing templates that are popular for those trying to setup a directory website. First, you should add a few listings to the plugin, business, staff, or whatever you are listing. Then you can use any of the following shortcodes to reveal a particular layout:
 
 	1. [display_listings type="bl1" order_by=1 limit=150]
 	2. [display_listings type="blb" order_by=3 limit=150]
@@ -41,7 +37,7 @@ This specific addon "Business Directory" provides several listing templates that
 	5. [display_listings type="bl3" order_by=1 limit=150]
 	6. [display_listings type="bl4" order_by=1 limit=150]
 
-You can use the following shortcode to setup an alaphabetic search option. So if you use a listing type that visibly shows alaphabetic listings, you should also use this shortcode to help people navigate your records quickly.
+You can use the following shortcode to setup an alaphabetic search option. So if you use a listing type that visibly shows alaphabetic listings, you should also use the following shortcode to help people navigate your records quickly.
 
 [alpha_list]
 
