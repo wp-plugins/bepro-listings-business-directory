@@ -107,7 +107,7 @@ Yes, there are several. We constantly release new ones on our website
 4. shortcode bl2b example
 5. shortcode bl3 example
 6. shortcode bl4 example
-
+7. Sample details page with addons
 
 == Changelog ==
 
