@@ -3,7 +3,7 @@ Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
 Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, paid, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, wordpress business directory
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
