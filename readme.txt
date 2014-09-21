@@ -11,10 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tools needed to create a business or staff related directory. Various listing templates feature info like, images, contact details, & more.
 
 == Description ==
-Google Maps, Ajax Search, media support, paid listings and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. Requires BePro Listings which provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website.
+Google Maps, Ajax Search, media support, paid listings and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. Requires BePro Listings which provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website. If interested in custom fields, check out our **Form Builder Addon**
 
 
-[Business Directory](http://www.beprosoftware.com/shop/bepro-listings-business-directory/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
+[Business Directory](http://www.beprosoftware.com/shop/bepro-listings-business-directory/) | [SupportForum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
 
 Download and install BePro Listings here on wordpress.org
 
