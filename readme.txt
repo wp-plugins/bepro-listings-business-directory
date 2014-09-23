@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, library, listings, location, member directory, office, paid, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, wordpress business directory
+Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, form builder, geo, library, listings, location, member directory, office, paid, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, wordpress business directory
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tools needed to create a business or staff related directory. Various listing templates feature info like, images, contact details, & more.
 
 == Description ==
-Google Maps, Ajax Search, media support, paid listings and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. Requires BePro Listings which provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website. If interested in custom fields, check out our **Form Builder Addon**
+Google Maps, Ajax Search, media support, paid listings and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. Requires BePro Listings which provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website. If interested in custom fields, check out our [Form Builder Addon](http://www.beprosoftware.com/shop/bepro-listings-form-builder/)
 
 
 [Business Directory](http://www.beprosoftware.com/shop/bepro-listings-business-directory/) | [SupportForum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
@@ -43,8 +43,16 @@ You can use the following shortcode to setup an alaphabetic search option. So if
 
 Remember, you can also still use all of the other shortcodes included with BePro Listings. Ultimately, this plugin provides the layout you need and BePro Listings provides all of the other functionality.
 
-UPGRADE
-There is an premium version of this plugin with admin and front end management of availability. Yes, you and your users can upload and manage business hours for your listings.
+= UPGRADE =
+
+BePro Listings has several other addons which you can pair with this one. There are **over 19 addons** to chose from. Here is a short list:
+
+[Form Builder](http://www.beprosoftware.com/shop/bepro-listings-form-builder/) - Over 18 form fields
+[Booking](http://www.beprosoftware.com/shop/bepro-listings-booking/) - Events, availability, etc
+[Galleries](http://www.beprosoftware.com/shop/bepro-listings-galleries//) - 3 slider types & more
+[Videos](http://www.beprosoftware.com/shop/bepro-listings-videos/) - Youtube, vimeo, and more
+[Contact](http://www.beprosoftware.com/shop/bepro-listings-contact/) - Email from listing
+[Reviews](http://www.beprosoftware.com/shop/bepro-listings-reviews/) - 5 star user feedback
 
 = Directory Solutions =
 
@@ -77,26 +85,41 @@ BePro Listings has spawned the famous **$1 one dollar wordpress themes**. Checko
 
 Yes
 
-= Can i use other BePro Listings addons? =
+= How do i setup custom fields? =
 
-Yes
+Our unique form builder addon. Over 18 fields with several other addons integrating, videos, audio, documents, etc.
+
+= What media is supported through the base BePro Listings? =
+
+Wordpress galleries
+
+= What HTML5 media is supported via addons? =
+
+Vidoes (youtube, vimeo, etc), audio (mp3, wav, etc)
+
+= What document types are supported via addons? =
+
+pdf, doc, txt and several others via a flash viewer
 
 = Can i use all other BePro Listings Features? =
 
 Yes
 
+= Is there a way to get user feedback regarding listings? =
+
+yes, consier our reviews and favorites addons
+
 = Do the new templates work with ajax? =
 
 Yes
 
-= Can you make more templates? =
+= Can I make my own templates? =
 
 Yes, there is documenation and/or development support on our website
 
 = Are there other niche templates? =
 
-Yes, there are several. We constantly release new ones on our website
-
+Yes, there are a several. We are constantly developing and releasing new layouts for BePro Listings
 
 
 == Screenshots ==
