@@ -1,7 +1,7 @@
 === BePro Listings Business Directory ===
 Contributors: BeyondPrograms
 Donate link: http://beprosoftware.com/
-Tags: address, addressbook, addresses, artist, album, bands, bepro listings, book, building, business, business directory, college, church directory, custom directory, discography, directory, directory plugin, easy, employee directory, geo, form builder, library, listings, location, member directory, office, paid, payments, paypal, profile, plugin, school directory, shortcode, simple, store, staff directory, theme, university, yellow pages, yelp, wordpress business directory
+Tags: address, bepro listings, business, business directory, business listings, college, church directory, directory, directory plugin, easy, employee directory, geo, form builder, library, listings, location, member directory, office, paid, payments, paypal, plugin, school directory, store, staff, staff directory, theme, university, yellow pages, yelp, wordpress business directory, wordpress directory, wordpress
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0.0
