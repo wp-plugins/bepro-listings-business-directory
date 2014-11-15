@@ -48,6 +48,7 @@ Remember, you can also still use all of the other shortcodes included with BePro
 BePro Listings has several other addons which you can pair with this one. There are **over 19 addons** to chose from. Here is a short list:
 
 * [Form Builder](http://www.beprosoftware.com/shop/bepro-listings-form-builder/) - Over 18 form fields
+* [Claim Listing](http://www.beprosoftware.com/shop/bepro-listings-claim/) - Visitors can claim Listings
 * [Booking](http://www.beprosoftware.com/shop/bepro-listings-booking/) - Events, availability, etc
 * [Galleries](http://www.beprosoftware.com/shop/bepro-listings-galleries//) - 3 slider types & more
 * [Videos](http://www.beprosoftware.com/shop/bepro-listings-videos/) - Youtube, vimeo, and more
