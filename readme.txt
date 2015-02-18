@@ -4,7 +4,7 @@ Donate link: http://beprosoftware.com/
 Tags: bepro listings, business, business directory, business listings, college, church directory, directory, directory plugin, easy, employee directory, geo, library, listings, listing directory, member directory, plugin, school directory, store, staff, staff directory, theme, university, yellow pages, yelp, wordpress business theme, wordpress business directory,  wordpress business directory plugin, wordpress directory, wordpress
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.01
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -135,6 +135,14 @@ Yes, there are a several. We are constantly developing and releasing new layouts
 
 == Changelog ==
 
+1.0.01
+= 1.0.01 (Feb 18th, 2015) =
+
+* Tweak bl1 and bl1b layouts
+
+= 1.0.0 (Nov 11th, 2015) =
+
+* Stable
 
 == Upgrade Notice ==
 

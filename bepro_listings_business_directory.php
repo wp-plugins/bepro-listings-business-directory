@@ -4,7 +4,7 @@ Plugin Name: BePro Listings Business Directory
 Plugin Script: bepro_listings_business_directory.php
 Plugin URI: http://www.beprosoftware.com/shop
 Description: Create your wordpress business or staff directory with our various listing layouts. Showcase information like, contact , location, description. Also showcase media like photos, videos, and documents
-Version: 1.0.0
+Version: 1.0.01
 License: GPL V3
 Author: BePro Software Team
 Author URI: http://www.beprosoftware.com
@@ -133,7 +133,6 @@ class Bl_business_directory{
 	
 	function after_listing($type,$result, $previous){
 		if(($type == "bl1") || ($type == "bl1b")){
-			if(empty($result->last_name))return;
 			$return_str .= "</div>";
 		}	
 			
@@ -165,7 +164,6 @@ class Bl_business_directory{
 		echo "<span class='result_contact'><a href='$permalink'>".$bp_listing->first_name." ".$bp_listing->last_name."</a></span>";
 	}
 	function bepro_listings_list_business_contact_item($bp_listing){
-		if(empty($bp_listing->last_name))return;
 		$permalink = get_permalink( $bp_listing->post_id );
 		echo "<span class='result_contact'><a href='$permalink'>".$bp_listing->post_title."</a></span>";
 	}
