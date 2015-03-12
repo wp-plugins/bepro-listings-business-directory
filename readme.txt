@@ -11,10 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tools needed to create a business or staff related directory. Various listing templates feature info like, images, contact details, & more.
 
 == Description ==
-Google Maps, Ajax Search, media support, Paypal payments, notification emails and anything else your Directory needs. By far the **Best Business and Staff Directory** solution available for wordpress. Requires BePro Listings which provides more FREE and paid features than any other directory plugin. This Business Directory addon, introduces new Business and Staff focused directory layouts. Further proof that BePro Listings can be used for any type of listings website. If interested in custom fields, check out our [Form Builder Addon](http://www.beprosoftware.com/shop/bepro-listings-form-builder/)
+Use this Business Directory addon with our BePro Listings plugin. The result is a business directory with, Alphabetic Search, media support, Galleries, notification emails and anything else your Directory needs. This Business Directory addon, introduces new Business and Staff focused directory layouts to extend the existing BePro Lisitngs layouts. If interested in custom fields, check out our [Form Builder Addon](http://www.beprosoftware.com/shop/bepro-listings-form-builder/)
 
 
-[Business Directory](http://www.beprosoftware.com/shop/bepro-listings-business-directory/) | [SupportForum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/) | [Themes](http://www.beprosoftware.com/designs/)
+[Business Directory](https://www.beprosoftware.com/shop/bepro-listings-business-directory/) | [SupportForum](https://www.beprosoftware.com/forums/) | [Documentation & Add Ons](https://www.beprosoftware.com/products/bepro-listings/) | [Themes](https://www.beprosoftware.com/themes/) | [Demo](http://www.beprotheme.com/business/)
 
 Download and install BePro Listings here on wordpress.org
 
@@ -22,9 +22,9 @@ Download and install BePro Listings here on wordpress.org
 
 = INTRO VIDEO =
 
-[youtube http://www.youtube.com/watch?v=D5YpZX0go88&hd=1]
+[youtube https://www.youtube.com/watch?v=-InBf9LllYc&hd=1]
 
-= How to Use =
+= HOW TO USE =
 
 Install BePro Listings then install this. Its that simple
 
@@ -55,13 +55,9 @@ BePro Listings has several other addons which you can pair with this one. There 
 * [Contact](http://www.beprosoftware.com/shop/bepro-listings-contact/) - Email from listing
 * [Reviews](http://www.beprosoftware.com/shop/bepro-listings-reviews/) - 5 star user feedback
 
-= Directory Solutions =
-
-This addon demonstrates our ability to facilitate any listing design and search feature for your directory. No other directory plugin offers this type of flexibility. No matter what type of information you are listing in your Directory, BePro Listings can supply a directory addon which specifically lists exactly the content you need to showcase and facilitate searching of that directory content.
-
 = THEMES =
 
-BePro Listings has spawned the famous **$1 one dollar wordpress themes**. Checkout a few of our popular options below
+We have several themes which support BePro Lisitngs by default. Checkout a few of our popular options below
 
 	1. ByCater - This responsive directory theme features a home page template utilizing (google map, search, categories, and listings). It also integrates with typical wordpress features like, sidebar, menu, etc
 	2. FolioProjects - Responsive Child theme for the stock wordpress twentyfourteen teamplate. Perfect for gallery, portfolio, and other sites where you want to emphasize the featured images. Comes with three templates
