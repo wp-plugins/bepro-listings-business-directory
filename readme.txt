@@ -39,7 +39,7 @@ This specific addon "Business Directory" will introduce several new listing temp
 
 You can use the following shortcode to setup an alaphabetic search option. So if you use a listing type that visibly shows alaphabetic listings, you should also use the following shortcode to help people navigate your records quickly.
 
-[alpha_list]
+[bl_alpha_list]
 
 Remember, you can also still use all of the other shortcodes included with BePro Listings. Ultimately, this plugin provides the layout you need and BePro Listings provides all of the other functionality.
 
